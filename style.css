@@ -1,0 +1,94 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial;
+    box-sizing: border-box;
+}
+
+.box-1 {
+    text-align: center;
+    background-color: darkred;
+    font-size: 50px;
+    padding: 50px;
+    margin-top: 50px;
+    border: 5px solid black;
+}
+
+header h1 {
+    text-align: center;
+    background-color: #333;
+    padding-top: 25px;
+    padding-bottom: 0px;
+    color: white;
+}
+
+header p {
+    text-align: center;
+    background-color: #333;
+    padding: 25px;
+    color: white;
+}
+
+nav ul {
+list-style: none;
+text-align: center;
+background-color: #555;
+padding: 5px;
+}
+
+nav ul li {
+    display: inline;
+    background-color: #555;
+}
+
+
+nav ul li a {
+    margin-left: 5px;
+    text-decoration: none;
+    background-color: #555;
+    color: white;
+    transition: background-color 0.3s, color 3.0s;
+}
+
+main section {
+    background-color: #f9f9f9;
+    border: 10px;
+    margin: 15px 9px 15px 9px;
+    padding: 10px 5px 10px 5px;
+    line-height: 40px;
+}
+
+
+main article {    
+    background-color: #f9f9f9;
+    border: 10px;
+    margin: 15px 9px 15px 9px;
+    padding: 10px 5px 10px 5px;
+    line-height: 40px;
+}
+
+main aside h2 {
+    line-height: 55px;
+}
+
+
+main aside ul {
+    padding: 10px 5px 10px 30px;
+}
+
+main aside {
+    background-color: #f9f9f9;
+    border: 10px;
+    margin: 15px 9px 15px 9px;
+    padding: 10px 5px 10px 5px;
+}
+
+footer  {
+    background-color: #333;
+    border: 10px;
+    margin: 15px 9px 15px 9px;
+    padding: 25px 10px 25px 10px;
+    color: white;
+    text-align: center;
+    line-height: 30px;
+}
