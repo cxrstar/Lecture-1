@@ -79,14 +79,14 @@ main aside ul {
 main aside {
     background-color: #f9f9f9;
     border: 10px;
-    margin: 15px 9px 15px 9px;
+    margin: 15px 9px 0px 9px;
     padding: 10px 5px 10px 5px;
 }
 
 footer  {
     background-color: #333;
     border: 10px;
-    margin: 15px 9px 15px 9px;
+    margin: 0px 9px 15px 9px;
     padding: 25px 10px 25px 10px;
     color: white;
     text-align: center;
