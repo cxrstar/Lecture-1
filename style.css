@@ -92,3 +92,29 @@ footer  {
     text-align: center;
     line-height: 30px;
 }
+
+.container {
+    display: flex; 
+    gap: 50px; 
+    justify-content: center; 
+    align-items: center; 
+    height: 10vh; 
+  }
+
+  .box {
+    background-color: #555;
+    color: pink;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    width: 100px;
+  }
+
+  .box:hover {
+    transform: scale(1.2); 
+    background-color: #333;
+  }
+
+  
+
+ 
