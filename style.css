@@ -76,6 +76,7 @@ main aside ul {
     display: flex;
     justify-content: center;
     flex: 1;
+    margin: 10px, 10px, 5px, 10px;
 }
 
 .flex-items-1 {
@@ -86,7 +87,7 @@ main aside ul {
     background-color: #f0f0f0;
     padding: 25px;
     width: 40%;
-    margin-left: 10px;
+    margin-left: 7px;
 }
 
 .container {
