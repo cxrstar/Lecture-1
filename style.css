@@ -93,10 +93,26 @@ main aside ul {
 .container {
     display: flex;
     flex: 1;
+    margin-bottom: 0;
 }
 
 .aboutest {
     width: 100%;
+}
+
+.tgt2 {
+    background-color: white;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.tgt {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.last {
+    margin: 0;
 }
 
 
