@@ -18,7 +18,7 @@ header h1 {
     text-align: center;
     background-color: #333;
     padding-top: 25px;
-    padding-bottom: 0px;
+    padding-bottom: 0px; 
     color: white;
 }
 
@@ -72,6 +72,10 @@ main aside ul {
     padding: 10px 5px 10px 30px;
 }
 
+.whole {
+    margin: 0px 7px 0px 7px;
+}
+
 .flex-container {
     display: flex;
     justify-content: center;
@@ -115,6 +119,10 @@ main aside ul {
     margin: 0;
 }
 
+.aboutus {
+    margin-left: 0;
+    margin-right: 0;
+}
 
 footer  {
     background-color: #333;
